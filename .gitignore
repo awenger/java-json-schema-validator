@@ -6,6 +6,5 @@
 *.ear
 
 # Eclipse #
-.classpath
 .settings
 bin/
